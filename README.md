@@ -18,5 +18,5 @@ sClass-PVDB/
 │   ├── train/            # Train images
 │   └── validation/       # Validation images
 │   └── test/             # Test images
-├── results/              # Experimental baseline results
+└── results/              # Experimental baseline results
 ```
