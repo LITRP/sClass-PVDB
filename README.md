@@ -28,7 +28,7 @@ We employed the method of generating synthetic images of palm veins proposed by 
 
 If you use our database for your research, please cite our paper:
 
-Paper introducing the mathematical model for generating synthetic palm vein images: [Link text Here](https://doi.org/10.1007/s40314-024-02634-5)
+Paper introducing the mathematical model for generating synthetic palm vein images: [Salazar-Jurado, E.H., Vilches-Ponce, K., Hernández-García, R. et al. Palm vein modeling for generating synthetic images with biometric purposes: a geometrical approach. Comp. Appl. Math. 43, 108 (2024). https://doi.org/10.1007/s40314-024-02634-5](https://doi.org/10.1007/s40314-024-02634-5)
 ```
 @article{salazar2024palm,
   title={Palm vein modeling for generating synthetic images with biometric purposes: a geometrical approach},
