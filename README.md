@@ -1,5 +1,4 @@
 # sClass-PVDB: Synthetic Database for Palm Vein Images Classification 
-=======================================================================
 
 This repository shares the database proposed in the paper: 
 
