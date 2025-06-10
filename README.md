@@ -12,16 +12,11 @@ Laboratory of Technological Research in Pattern Recognition (www.litrp.cl), Facu
 
 ## Directory Structure
 
-FusionPalmID/
-├── configs/               # Configuration files
-│   ├── dataset.yaml      # Dataset configuration
-│   └── model_config.yaml # Model hyperparameters
-├── src/                  # Source code
-│   ├── models/          # Model implementations
-│   └── utils/           # Utility functions
-├── checkpoints/          # Saved model weights
-├── results/              # Experimental results
-├── YoloV10/
-├── YoloV11/
-├── YoloV12/
-└── requirements.txt      # Python dependencies
+```
+sClass-PVDB/
+├── dataset/              # Database files
+│   ├── train/            # Train images
+│   └── validation/       # Validation images
+│   └── test/             # Test images
+├── results/              # Experimental baseline results
+```
